@@ -1,0 +1,209 @@
+2022-05-25 09:24:24 上午 [Thread: Thread-0][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:24:22
+密码:[B@7081cd38
+
+
+2022-05-25 09:24:26 上午 [Thread: Thread-0][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@68b75939
+Client ip地址：[C@128acb5c
+TGS ip地址：[C@15c6ed56
+发包时间：[C@1d43c723
+用户昵称：李浩
+
+
+2022-05-25 09:25:30 上午 [Thread: Thread-1][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:25:29
+密码:[B@7a739906
+
+
+2022-05-25 09:25:30 上午 [Thread: Thread-1][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@708bf276
+Client ip地址：[C@35897203
+TGS ip地址：[C@5354661d
+发包时间：[C@4f6a1f7
+用户昵称：李浩
+
+
+2022-05-25 09:30:05 上午 [Thread: Thread-2][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:30:04
+密码:[B@4cb6d4c5
+
+
+2022-05-25 09:30:05 上午 [Thread: Thread-2][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@464ebfb5
+Client ip地址：[C@34c3918
+TGS ip地址：[C@7926d548
+发包时间：[C@32051964
+用户昵称：李浩
+
+
+2022-05-25 09:32:09 上午 [Thread: Thread-3][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:32:08
+密码:[B@4dad3d06
+
+
+2022-05-25 09:32:09 上午 [Thread: Thread-3][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@47555676
+Client ip地址：[C@257d0f8
+TGS ip地址：[C@26b698b9
+发包时间：[C@331ff26e
+用户昵称：李浩
+
+
+2022-05-25 09:33:20 上午 [Thread: Thread-4][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:33:19
+密码:[B@7393bbd1
+
+
+2022-05-25 09:33:20 上午 [Thread: Thread-4][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@796bd0a1
+Client ip地址：[C@3c6941e8
+TGS ip地址：[C@52ca2887
+发包时间：[C@d9ffbde
+用户昵称：李浩
+
+
+2022-05-25 09:34:26 上午 [Thread: Thread-5][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:34:25
+密码:[B@3ea3cc1e
+
+
+2022-05-25 09:34:26 上午 [Thread: Thread-5][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@345ba76e
+Client ip地址：[C@71593f81
+TGS ip地址：[C@51bade88
+发包时间：[C@40e2e8e0
+用户昵称：李浩
+
+
+2022-05-25 09:34:55 上午 [Thread: Thread-6][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:34:54
+密码:[B@58640b4a
+
+
+2022-05-25 09:34:55 上午 [Thread: Thread-6][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@529c603a
+Client ip地址：[C@179ee40d
+TGS ip地址：[C@6f5883ef
+发包时间：[C@26c3126c
+用户昵称：李浩
+
+
+2022-05-25 09:36:10 上午 [Thread: Thread-7][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:36:08
+密码:[B@3eeb468f
+
+
+2022-05-25 09:36:10 上午 [Thread: Thread-7][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@34132dff
+Client ip地址：[C@7111a519
+TGS ip地址：[C@152a4a8a
+发包时间：[C@402ab2b2
+用户昵称：李浩
+
+
+2022-05-25 09:38:33 上午 [Thread: Thread-8][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:38:31
+密码:[B@2fbc2860
+
+
+2022-05-25 09:38:33 上午 [Thread: Thread-8][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@25444310
+Client ip地址：[C@6046c9dc
+TGS ip地址：[C@2ef7129c
+发包时间：[C@516c885e
+用户昵称：李浩
+
+
+2022-05-25 09:43:45 上午 [Thread: Thread-9][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:43:43
+密码:[B@6195f496
+
+
+2022-05-25 09:43:45 上午 [Thread: Thread-9][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@6b6d9fe6
+Client ip地址：[C@2e6f0cef
+TGS ip地址：[C@60906cf0
+发包时间：[C@1f8ba290
+用户昵称：李浩
+
+
+2022-05-25 09:53:07 上午 [Thread: Thread-10][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:27) ]
+INFO:192.168.43.248 receive AS login authentication package from 192.168.43.38
+收包内容(登录包):
+用户ID:1111111111
+TGS ip地址192.168.43.205
+时间戳:2022-05-25 09:53:06
+密码:[B@3faa4e38
+
+
+2022-05-25 09:53:07 上午 [Thread: Thread-10][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:20) ]
+INFO:192.168.43.38 receive log_succ from 192.168.43.248
+收包内容(登录包):
+TGS会话密匙:[C@35522548
+Client ip地址：[C@7050ad86
+TGS ip地址：[C@1d66f63a
+发包时间：[C@416afa64
+用户昵称：李浩
+
+

@@ -1,0 +1,6 @@
+2022-05-26 14:59:59 下午 [Thread: Thread-1][ Class:TGS >> Method: log.Log.AuthLog(Log.java:37) ]
+ERROR:客户端2222222222与192.168.43.205认证失败
+2022-05-26 15:00:52 下午 [Thread: Thread-2][ Class:TGS >> Method: log.Log.AuthLog(Log.java:37) ]
+ERROR:客户端2222222222与192.168.43.205认证失败
+2022-05-26 15:10:19 下午 [Thread: Thread-3][ Class:TGS >> Method: log.Log.AuthLog(Log.java:37) ]
+ERROR:客户端3333333333与192.168.43.205认证失败

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="582.0" prefWidth="1114.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ClientWindow.ClientWindow">
+   <children>
+      <TextArea fx:id="showTextArea" layoutX="14.0" layoutY="46.0" prefHeight="337.0" prefWidth="546.0" />
+      <TextField fx:id="msgTextField" alignment="TOP_LEFT" layoutX="14.0" layoutY="402.0" prefHeight="93.0" prefWidth="546.0" promptText="在此输入文本消息" />
+      <Button layoutX="510.0" layoutY="503.0" mnemonicParsing="false" onAction="#send" text="发送" />
+      <Label layoutX="14.0" layoutY="14.0" prefHeight="20.0" prefWidth="227.0" text="欢迎你，李浩(309501908)" />
+      <TextArea layoutX="592.0" layoutY="46.0" prefHeight="451.0" prefWidth="507.0" />
+      <Label layoutX="592.0" layoutY="14.0" prefHeight="20.0" prefWidth="353.0" text="数字签名展示：ID + content + Digital Signature" />
+   </children>
+</AnchorPane>

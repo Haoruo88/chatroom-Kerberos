@@ -1,0 +1,16 @@
+2022-05-12 09:13:26 上午 [Thread: Thread-0][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:18) ]
+INFO:192.168.43.38 receive 注册包 from 127.0.0.1
+2022-05-12 09:13:26 上午 [Thread: Thread-0][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:12) ]
+INFO:192.168.43.38 send AS注册成功包 to 127.0.0.1
+2022-05-12 20:10:06 下午 [Thread: Thread-0][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:18) ]
+INFO:192.168.43.38 receive 注册包 from 127.0.0.1
+2022-05-12 20:10:06 下午 [Thread: Thread-0][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:12) ]
+INFO:192.168.43.38 send AS注册成功包 to 127.0.0.1
+2022-05-12 20:12:30 下午 [Thread: Thread-0][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:18) ]
+INFO:192.168.43.38 接收 AS登录认证包 来自 127.0.0.1
+2022-05-12 20:12:30 下午 [Thread: Thread-0][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:12) ]
+INFO:192.168.43.38 发送 登录成功包 到 127.0.0.1 成功 ！
+2022-05-12 20:23:47 下午 [Thread: Thread-2][ Class:AS >> Method: log.Log.receivePackageLog(Log.java:18) ]
+INFO:192.168.43.38 接收 AS登录认证包 来自 127.0.0.1
+2022-05-12 20:23:47 下午 [Thread: Thread-2][ Class:AS >> Method: log.Log.sendPackageLog(Log.java:12) ]
+INFO:192.168.43.38 发送 登录成功包 到 127.0.0.1 成功 ！

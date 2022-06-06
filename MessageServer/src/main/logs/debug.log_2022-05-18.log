@@ -1,0 +1,24 @@
+2022-05-18 09:54:35 上午 [Thread: Thread-0][ Class:MessageServer >> Method: log.Log.receivePackageLog(Log.java:14) ]
+INFO:192.168.43.75 receive 客户端认证包 from 192.168.43.38
+2022-05-18 09:54:35 上午 [Thread: Thread-0][ Class:MessageServer >> Method: log.Log.sendPackageLog(Log.java:8) ]
+INFO:192.168.43.75 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-18 09:55:55 上午 [Thread: Thread-1][ Class:MessageServer >> Method: log.Log.receivePackageLog(Log.java:14) ]
+INFO:192.168.43.75 receive 客户端认证包 from 192.168.43.38
+2022-05-18 09:55:55 上午 [Thread: Thread-1][ Class:MessageServer >> Method: log.Log.sendPackageLog(Log.java:8) ]
+INFO:192.168.43.75 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-18 11:13:33 上午 [Thread: Thread-0][ Class:MessageServer >> Method: log.Log.receivePackageLog(Log.java:14) ]
+INFO:192.168.43.75 receive 客户端认证包 from 192.168.43.38
+2022-05-18 11:13:33 上午 [Thread: Thread-0][ Class:MessageServer >> Method: log.Log.sendPackageLog(Log.java:8) ]
+INFO:192.168.43.75 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-18 11:32:31 上午 [Thread: Thread-1][ Class:MessageServer >> Method: log.Log.receivePackageLog(Log.java:14) ]
+INFO:192.168.43.75 receive 客户端认证包 from 192.168.43.38
+2022-05-18 11:32:31 上午 [Thread: Thread-1][ Class:MessageServer >> Method: log.Log.sendPackageLog(Log.java:8) ]
+INFO:192.168.43.75 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-18 11:37:39 上午 [Thread: Thread-2][ Class:MessageServer >> Method: log.Log.receivePackageLog(Log.java:14) ]
+INFO:192.168.43.75 receive 客户端认证包 from 192.168.43.38
+2022-05-18 11:37:39 上午 [Thread: Thread-2][ Class:MessageServer >> Method: log.Log.sendPackageLog(Log.java:8) ]
+INFO:192.168.43.75 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-18 11:44:52 上午 [Thread: Thread-3][ Class:MessageServer >> Method: log.Log.receivePackageLog(Log.java:14) ]
+INFO:192.168.43.75 receive 客户端认证包 from 192.168.43.38
+2022-05-18 11:44:52 上午 [Thread: Thread-3][ Class:MessageServer >> Method: log.Log.sendPackageLog(Log.java:8) ]
+INFO:192.168.43.75 send 客户端登录认证成功包 to 192.168.43.38

@@ -1,0 +1,58 @@
+2022-06-04 20:04:39 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:05:19 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:05:19 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:05:34 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:05:34 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:05:39 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:05:39 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:14:06 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:14:06 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:14:41 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:14:41 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:14:45 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:14:45 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:16:01 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:16:01 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:16:25 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:16:25 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:16:55 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:16:55 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:17:37 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:17:37 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:17:46 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:17:46 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:58:49 下午 [Thread: Thread-7][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:58:49 下午 [Thread: Thread-6][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 20:59:25 下午 [Thread: Thread-7][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 20:59:25 下午 [Thread: Thread-6][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-06-04 21:03:14 下午 [Thread: Thread-7][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-06-04 21:03:14 下午 [Thread: Thread-6][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38

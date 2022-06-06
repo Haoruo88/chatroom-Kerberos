@@ -1,0 +1,238 @@
+2022-05-25 09:25:30 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:30:04 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:30:04 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send 客户端登录认证成功包 to 127.0.0.1
+2022-05-25 09:33:19 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:33:19 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send 客户端登录认证成功包 to 127.0.0.1
+2022-05-25 09:36:09 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:36:09 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send 客户端登录认证成功包 to 127.0.0.1
+2022-05-25 09:38:32 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:38:32 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send 客户端登录认证成功包 to 127.0.0.1
+2022-05-25 09:43:44 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:43:44 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send 客户端登录认证成功包 to 127.0.0.1
+2022-05-25 09:53:06 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 127.0.0.1
+2022-05-25 09:53:06 上午 [Thread: Thread-2][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send 客户端登录认证成功包 to 127.0.0.1
+2022-05-30 15:49:22 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 15:49:22 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 15:49:46 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 15:49:46 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 15:50:52 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 15:50:52 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 15:53:24 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 15:53:24 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 15:58:55 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 15:58:55 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:20:05 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:20:05 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:30:49 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:30:49 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:34:58 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:34:58 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:42:05 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:42:05 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:42:49 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:42:49 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:55:10 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:55:10 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 16:56:51 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 16:56:51 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 19:12:26 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 19:12:26 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 19:12:32 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive PackageCtoVPublicMsg from 127.0.0.1
+2022-05-30 19:12:32 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:127.0.0.1 send PackageVtoCPublicMsg to 127.0.0.1
+2022-05-30 21:06:57 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:16:31 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:127.0.0.1 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:16:31 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.PrintPackageCToV(Log.java:78) ]
+INFO:TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:16:32
+票据的有效期：10s
+PackageCToV --> Authenticator:
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653916591813
+
+2022-05-30 21:18:55 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:18:55 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.PrintPackageCToV(Log.java:78) ]
+INFO:TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:18:56
+票据的有效期：10s
+PackageCToV --> Authenticator:
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653916735494
+
+2022-05-30 21:18:55 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-30 21:19:29 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:19:29 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:19:34 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:19:34 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:26:44 下午 [Thread: Thread-5][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:26:44 下午 [Thread: Thread-5][ Class:MessageServer$Auth >> Method: log.Log.PrintPackageCToV(Log.java:78) ]
+INFO:TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:26:45
+票据的有效期：10s
+PackageCToV --> Authenticator:
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653917204415
+
+2022-05-30 21:26:44 下午 [Thread: Thread-5][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-30 21:39:53 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:39:53 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.PackageCtoVAuth(Log.java:78) ]
+INFO:PackageCtoVAuth明文内容：
+TicketV:
+TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:39:54
+票据的有效期：10s
+Authenticator:
+Client的标识(账号)：1111111111
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653917993464
+
+2022-05-30 21:39:53 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-30 21:40:03 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:40:03 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:40:15 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:40:15 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:41:22 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:41:22 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.PackageCtoVAuth(Log.java:78) ]
+INFO:PackageCtoVAuth明文内容：
+TicketV:
+TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：2222222222
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:41:23
+票据的有效期：10s
+Authenticator:
+Client的标识(账号)：2222222222
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653918082293
+
+2022-05-30 21:41:22 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-30 21:43:52 下午 [Thread: Thread-5][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:43:52 下午 [Thread: Thread-5][ Class:MessageServer$Auth >> Method: log.Log.PackageCtoVAuth(Log.java:78) ]
+INFO:PackageCtoVAuth明文内容：
+TicketV:
+TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：2222222222
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:43:53
+票据的有效期：10s
+Authenticator:
+Client的标识(账号)：2222222222
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653918232978
+
+2022-05-30 21:43:52 下午 [Thread: Thread-5][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-30 21:44:23 下午 [Thread: Thread-6][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:46:13 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive 客户端认证包 from 192.168.43.38
+2022-05-30 21:46:13 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.PackageCtoVAuth(Log.java:78) ]
+INFO:PackageCtoVAuth明文内容：
+TicketV:
+TGS生成的C与V的会话密钥：12345678
+Client的标识(账号)：3333333333
+Client的网络地址：192.168.43.38
+Server的IP地址):192.168.43.38
+时间戳(票据签发时间)：2022-05-30 21:46:14
+票据的有效期：1000s
+Authenticator:
+Client的标识(账号)：3333333333
+Client的网络地址：192.168.43.38
+Client生成的时间戳：1653918373527
+
+2022-05-30 21:46:13 下午 [Thread: Thread-3][ Class:MessageServer$Auth >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send 客户端登录认证成功包 to 192.168.43.38
+2022-05-30 21:46:43 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:46:43 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:46:48 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:46:48 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:46:51 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:46:51 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-30 21:46:54 下午 [Thread: Thread-4][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
+2022-05-30 21:46:54 下午 [Thread: Thread-2][ Class:MessageServer$SendMsgToClient >> Method: log.Log.sendPackageLog(Log.java:16) ]
+INFO:192.168.43.38 send PackageVtoCPublicMsg to 192.168.43.38
+2022-05-31 21:40:44 下午 [Thread: Thread-3][ Class:MessageServer$GetMsgFromClient >> Method: log.Log.receivePackageLog(Log.java:22) ]
+INFO:192.168.43.38 receive PackageCtoVPublicMsg from 192.168.43.38
